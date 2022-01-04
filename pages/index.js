@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { useState } from "react";
 import Card from "../components/Card";
 import MyDialog from "../components/Dialog";
